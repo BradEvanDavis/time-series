@@ -17,3 +17,5 @@ Data processing enabled successful price predictions with a exp-MSE of 0.067.  F
 
 Files:
 AirBnB-price-prediction.ipynb - provides a detailed look at all analyses performed on the AirBnB datasets.
+
+Note: a full description of processes used during this analysis is available on Medium at https://medium.com/@brad.evan.davis/time-series-prediction-using-deep-learning-and-language-embeddings-e482ab9cd109?source=friends_link&sk=7a5d11d0e0e6bd767e654fe31b1eceb3

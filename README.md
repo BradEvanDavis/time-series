@@ -1,4 +1,4 @@
-# time-series
+# AirBnB Property Price Prediction
 Project Motivation / Definition:
 
 This project touches on four different topics that are important to enabling robust predictive models from the AirBnB dataset - these topics include:
